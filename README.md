@@ -4,7 +4,7 @@
 <hr>
 <b>Current big projects</b>
 <br>
-Im currently working on 2 big secret projects with my collaborator <a href="https://github.com/leverlevi88">@leverlevi88</a>.
+Im currently working on 2 big private projects with my collaborator <a href="https://github.com/leverlevi88">@leverlevi88</a>.
 <hr>
 <b>Current small projects</b>
 <br>
